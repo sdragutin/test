@@ -6,8 +6,12 @@ class Person {
   }
 
   getFullName() {
+<<<<<<< HEAD
     //@TODO Missing implementation
     console.log("Usao");
+=======
+    return 'Dog';
+>>>>>>> cenkovic/dog-2
   }
 
 }
